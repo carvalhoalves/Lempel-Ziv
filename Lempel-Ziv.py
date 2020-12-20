@@ -1,13 +1,3 @@
-"""
-Laboratório de Computação Gráfica
-
-Lempel-Ziv Data Compression Algorithm
-
-Mateus Rocha de Carvalho Alves
-
-"""
-
-
 # 'empty()' verifica a existência do arquivo para compressão.
 def empty():
     c, doc = 0, open('exist.txt', 'r')  # 'exist.txt' é aberto para leitura.
