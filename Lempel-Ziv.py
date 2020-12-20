@@ -58,7 +58,7 @@ if __name__ == '__main__':
 
     i, j, = 0, 0
 
-    # [L.73, ... 104] Lempel-Ziv Data Compression
+    # [L.63, ... 94] Lempel-Ziv Data Compression
 
     while j < len(data):
         if data[i: j + 1] in strings:
