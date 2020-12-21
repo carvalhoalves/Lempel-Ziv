@@ -6,8 +6,10 @@ Ao término da execução do programa, verifique o resultado da compressão dos 
 
 Sugestões de Dados de Teste:
 
-. 01100101
-. ABABBABCABABBA
-. 001011101001011101101101
+01100101
+
+ABABBABCABABBA
+
+001011101001011101101101
 
 Obs.: Entre com outras cadeias de caracteres para obter mais resultados e realize a comparação entre os tamanhos do arquivo original e do arquivo comprimido.
