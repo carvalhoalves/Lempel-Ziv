@@ -1,15 +1,5 @@
-# Lempel-Ziv Data Compression Algorithm
+## Lempel-Ziv (LZ78) – Orientações Pré-Execução
 
-Uma explicação completa a respeito deste algoritmo pode ser encontrada através do link: https://youtu.be/bk-m8uPtrvE.
+Através do arquivo *[Lampel-Ziv (LZ78) – Orientações Pré-Execução](https://youtu.be/bk-m8uPtrvE)*, você terá acesso a um conjunto básico de orientações que irão torná-lo(a) capaz de realizar em sua máquina uma execução adequada do arquivo ***Lempel-Ziv.py***.
 
-Ao término da execução do programa, verifique o resultado da compressão dos dados realizando uma comparação entre os tamanhos do arquivo original e do arquivo comprimido. Para que isso seja feito, basta acessar a pasta em que o projeto se encontra e, em seguida, analisar os tamanhos de cada arquivo por meio do acesso de suas propriedades.
-
-Sugestões de Dados de Teste:
-
-01100101
-
-ABABBABCABABBA
-
-001011101001011101101101
-
-Obs.: Entre com outras cadeias de caracteres para obter mais resultados e realize a comparação entre os tamanhos do arquivo original e do arquivo comprimido.
+Se existirem quaisquer questionamentos relacionados a este projeto ou aos arquivos que o compõem, sinta-se a vontade para entar em contato através do *e-mail carvalho.mateus@outlook.com.br*.
