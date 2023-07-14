@@ -1,4 +1,4 @@
-## Lempel-Ziv (LZ-78) – Orientações Pré-Execução
+## *Lempel-Ziv (LZ-78) – Orientações Pré-Execução*
 
 Através do arquivo *[Lempel-Ziv (LZ-78) – Orientações Pré-Execução](https://drive.google.com/file/d/1dx6Bc7prmXyrG-h0WXD8uN1LUXliOfLN/view?usp=sharing)*, você terá acesso a um conjunto básico de orientações que irão torná-lo[a] capaz de realizar em sua máquina uma execução adequada do arquivo ***Lempel-Ziv.py***.
 
